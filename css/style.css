@@ -1,0 +1,40 @@
+.container__somos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.container__somos img {
+    width: 60%;
+}
+
+.container__somos-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container__somos-content .parrafo-somos {
+    padding: 1rem;
+    font-size: 1.5rem;
+}
+
+.somos__favicons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.favicons-cards {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.somos__favicons img {
+    width: 100px;
+}
